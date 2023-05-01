@@ -1,4 +1,4 @@
-! /app/View
-! /resources/views/components
-! .gitignore
-! package.json
+!/app/View
+!/resources/views/components
+!.gitignore
+!package.json

@@ -1,5 +1,5 @@
 *
-!/app/View
-!/resources/views/components
+!*/app/View
+!*/resources/views/components
 !.gitignore
 !package.json

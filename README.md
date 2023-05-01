@@ -5,6 +5,7 @@
 
 Table es un repositorio creado en Laravel con Tailwindcss de uso libre para proyectos donde se requira utilizar tablas.
 
+![image](https://user-images.githubusercontent.com/50352230/235433278-69c2c517-27b5-4133-a601-e65ae2c75497.png)
 
 ## Requisitos
 
